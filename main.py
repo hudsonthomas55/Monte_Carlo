@@ -192,7 +192,7 @@ def main_screen():
     spacer_label.grid(row=10, column=0)
     return_label = Label(text="", justify=LEFT, anchor="w")
     return_label.grid(row=11, column=0, columnspan=4)
-    submit_button = Button(text="Calculate TPD", width=30, command=submit_button)
+    submit_button = Button(text="Run Simulations", width=30, command=submit_button)
     submit_button.grid(row=12, column=0, columnspan=2)
 
 
