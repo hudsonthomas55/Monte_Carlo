@@ -1,5 +1,6 @@
 # Monte_Carlo
-This GUI program is a retirement account simulator and can project potential balances at retirement
+This GUI program is a retirement account simulator and can project potential balances at retirement. It uses a series of monte carlo analyses to help plan 
+for retirement.
 
 
 A Monte Carlo analysis is used by an overwhelming majority of financial advisors, planners, coaches, and other financial professionals. This analysis 
