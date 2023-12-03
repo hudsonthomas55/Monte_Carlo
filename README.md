@@ -11,3 +11,6 @@ in current income as well as employer match. Out of one thousand different scena
 based on the inputs provided by the user.
 
 Get started retirement planning! And remember the most important factor in retirement planning is concistency.
+
+
+The updated_main.py is the most updated and more efficient script. Either program works, but this is the primary recommended version.
